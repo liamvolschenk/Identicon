@@ -6,15 +6,10 @@ Here we take an input/string (this can be whatever you want(letters/numbers, etc
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `identicon` to your list of dependencies in `mix.exs`:
+Run the following in the root project folder to install the dependencies
 
-```elixir
-def deps do
-  [
-    {:identicon, "~> 0.1.0"}
-  ]
-end
+```
+mix deps.get
 ```
 
 ## Usage
